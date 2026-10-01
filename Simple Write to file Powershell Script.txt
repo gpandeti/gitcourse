@@ -1,0 +1,1 @@
+Get-Date | Out-File -FilePath "C:\Testing\OutputText.txt" -Append
